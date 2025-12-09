@@ -1,48 +1,35 @@
-# 🌱 Random Java Topics Explored 🚀
+# 🚀 Java Basics Practice
 
-Dive into a collection of randomly solved Java topics—exploring diverse programming challenges with clear solutions! Whether you're brushing up on core concepts or tackling specific problem types, this repository offers bite-sized, understandable examples that demonstrate practical Java skills in action.
-
----
-
-## 📌 What's Inside?
-
-- ✅ **Beginner to Intermediate Java Programs**
-- 🔁 **Looping, Conditionals, Arrays, and Strings**
-- 📦 **OOP Concepts (Classes, Objects, Inheritance, etc.)**
-- 🧠 **Algorithmic Challenges**
-- 🔧 **Hands-on Problem Solving with Clean Code**
-
-Each solution is self-contained and clearly commented for easy understanding.
+A **handpicked collection of Java programs** to strengthen your foundational programming skills.  
+Perfect for beginners or anyone looking to **reinforce core Java concepts**.  
 
 ---
 
-## 📁 Folder Structure
+## 📁 Repository Structure
 
-```bash
-.
-├── Basics/
-│   ├── HelloWorld.java
-│   ├── IfElseExample.java
-│   └── ...
-├── OOP/
-│   ├── InheritanceDemo.java
-│   └── PolymorphismExample.java
-├── Arrays/
-│   ├── MaxElement.java
-│   └── ReverseArray.java
-├── Strings/
-│   └── PalindromeCheck.java
-└── README.md
+This repository contains **beginner to intermediate Java practice problems**:
 
-```
+| File | Description |
+|------|-------------|
+| `ArmStrong_Assignment.java` | 🔢 Verify if a number is an **Armstrong number** |
+| `ArrayList_Sort.java` | 📋 Sort and **manipulate ArrayLists** |
+| `Array_list.java` | 📝 Perform **basic ArrayList operations** |
+| `Conversion_String.java` | 🔄 Explore different **string conversion techniques** |
+| `Date_Class.java` | 📅 Work with **Java Date classes** |
+| `Fibonacci_Assignment.java` | 🐇 Generate the **Fibonacci sequence** |
 
-## 🚀 How to Use
+---
 
-1. **Clone this repo:**
+## 🚀 Features
 
-```bash
-git clone https://github.com/your-username/random-java-topics.git
+- ✅ Hands-on Java practice for beginners  
+- ✅ Covers **numbers, arrays, strings, dates, and collections**  
+- ✅ Step-by-step programs to **reinforce core concepts**  
 
-```
-2. **Open in your favorite IDE (e.g., IntelliJ, Eclipse).**
-3. **Run any .java file inside the topic folders.**
+---
+
+## 📌 Getting Started
+
+1. Clone the repository:  
+   ```bash
+   https://github.com/shakil-shk/java-basics-practice-problems.git
