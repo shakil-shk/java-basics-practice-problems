@@ -15,10 +15,10 @@ public class Factorial_Number {
     }
                  //This code is for recursive method
 
-    public static int fact(int n) {      //Recursive method written by (SHAKIL)
-       if (n==0)
-           return 1;
-       else
-           return n * fact(n-1);
-    }
+//    public static int fact(int n) {      //Recursive method written by (SHAKIL)
+//       if (n==0)
+//           return 1;
+//       else
+//           return n * fact(n-1);
+//    }
 
